@@ -10,6 +10,6 @@ Neste repositório, você encontrará uma seleção dos meus projetos mais notá
 
 **Links para Projetos**
 
-* [Análise de Dados de todas as gerações do Porsche 911](https://bit.ly/2Z3bmZh)
-* [Naufrágio do Titanic: Análise de Dados](https://bit.ly/2Z3bmZh)
+* [Análise de Dados de todas as gerações do Porsche 911](https://github.com/gustavo-desk/Data_Science/blob/main/Analise_porsche.ipynb)
+* [Naufrágio do Titanic: Análise de Dados](https://github.com/gustavo-desk/Data_Science/blob/main/Titanic_An%C3%A1lise.ipynb)
   
